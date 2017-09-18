@@ -1,9 +1,12 @@
 # My First README
 
-## This is the first section
-* Stuff
-* Things
-* Junk
+## A better version of first section
+
+* So
+* Much
+* Better
 
 ## Second Section
+
 * Whatever
+* Bad Attitude, kid
